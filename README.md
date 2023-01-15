@@ -1,1 +1,1 @@
-# rps
+A simple rock, paper, scissors script for the odin project's assignment.
